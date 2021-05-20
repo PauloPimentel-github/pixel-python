@@ -18,42 +18,31 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
+  <img alt="dev.finances" src="https://github.com/PauloPimentel-github/pixel-python/blob/master/pixel-python-titulo.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
+ 
+Esse projeto foi desenvolvido utilizando a ferramenta Choico, que pode ser encontrada [clicando aqui](http://etl.ppp.uoa.gr/choico/)
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
+(Core Padrão Para o Desenvolvimento de aplicações Web)
 - HTML
 - CSS
 - JavaScript
-- NodeJS
-- EJS
-- Express
-- SQLite
 
 ## 💻 Projeto
 
-O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
+O Pixel Python é um jogo no estilo RPG e Point & Click para fins educativos, onde é possível aprender fundamentos da programação com base na linguagem de programação Python.
 
-O projeto pode ser consultado para testar suas funcionalidades através [desse Link](https://maratona-discover-02.herokuapp.com)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+O projeto pode ser consultado para testar suas funcionalidades através [desse Link](https://drive.google.com/file/d/1xnDhMfFR5TTg2HzR4OL7hM1w1aSYv-UB/view?usp=sharing), basta fazer o download, acessar a ferramenta do Choico através [desse link](http://etl.ppp.uoa.gr/choico/) -> Play Game -> Open Game (abrir o projeto compactado)
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
-## Agradecimentos
-
-Projeto implementado na Maratona Discover 02, evento realizado pela equipe da Rocketseat.
-
-Gostaria de deixar meus agradecimentos a toda equipe da Rocketseat, a maratona discover 02 foi sensacional e com certeza eu consegui avançar para um próximo nível em minha carreira de desenvolvedor. 
+Esse projeto está sob a licença GNU. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
 
-Feito com ♥ by Paulo H.G Pimentel (Aluno Rocketseat)
+Feito com ♥ by Paulo H.G Pimentel, Luciano Gonçalves Pimentel
+
+Orientador: Josivan Silva
 
