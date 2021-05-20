@@ -38,7 +38,7 @@ O projeto pode ser consultado para testar suas funcionalidades através [desse L
 
 ## :memo: Licença
 
-Esse projeto está sob a licença GNU. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença GNU. Veja o arquivo [LICENSE](https://github.com/PauloPimentel-github/pixel-python/blob/master/LICENSE) para mais detalhes.
 
 ---
 
